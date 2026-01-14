@@ -13,8 +13,7 @@
     {"id":9,"name":"Min SOC","unit":"%","type":"number"},
     {"id":10,"name":"Max SOC","unit":"%","type":"number"},
     {"id":11,"name":"Charge Efficiency","unit":"%","type":"number"},
-    {"id":12,"name":"Discharge Efficiency","unit":"%","type":"number"},
-    {"id":13,"name":"Self-discharge Rate","unit":"%/day","type":"number"}
+    {"id":12,"name":"Discharge Efficiency","unit":"%","type":"number"}
   ],
   "M": [
     {"id":1,"name":"Total Voltage","unit":"V","type":"number"},
